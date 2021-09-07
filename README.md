@@ -10,7 +10,7 @@ Running the test:
 
 To run the test, 
 
-mvn test -P android-first-test
+  ```mvn test -P android-first-test  ```
 
 Viewing the results:
 Go to your App Automate dashboard to view the results.
